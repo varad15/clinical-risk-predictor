@@ -1,0 +1,17 @@
+# Java
+/target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Node
+node_modules/
+dist/
+*.log
+
+# IDE
+*.iml
+.idea/
+.vscode/
+
